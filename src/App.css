@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.sheetName {
+  cursor: pointer;
+}
+
+.sheetName:hover {
+  background-color: lightgray;
+}
